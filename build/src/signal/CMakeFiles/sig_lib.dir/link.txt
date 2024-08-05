@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc ../../../lib/libsig_lib.a CMakeFiles/sig_lib.dir/ngx_signal.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib ../../../lib/libsig_lib.a

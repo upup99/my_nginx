@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc ../../../lib/libapp_lib.a CMakeFiles/app_lib.dir/nginx.cpp.o CMakeFiles/app_lib.dir/ngx_c_conf.cpp.o CMakeFiles/app_lib.dir/ngx_log.cpp.o CMakeFiles/app_lib.dir/ngx_string.cpp.o CMakeFiles/app_lib.dir/ngx_printf.cpp.o CMakeFiles/app_lib.dir/ngx_setproctitle.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib ../../../lib/libapp_lib.a

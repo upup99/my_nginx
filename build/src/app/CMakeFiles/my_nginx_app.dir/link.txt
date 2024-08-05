@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/c++ -g -rdynamic CMakeFiles/my_nginx_app.dir/nginx.cpp.o -o ../../../bin/my_nginx_app   -L/root/code/nginx/lib  -Wl,-rpath,/root/code/nginx/lib ../../../lib/libapp_lib.a -lpthread ../../../lib/libsig_lib.a ../../../lib/liblogic_lib.a ../../../lib/libmisc_lib.a ../../../lib/libproc_lib.a ../../../lib/libnet_lib.a 

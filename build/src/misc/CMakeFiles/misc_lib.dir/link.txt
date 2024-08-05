@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc ../../../lib/libmisc_lib.a CMakeFiles/misc_lib.dir/ngx_c_memory.cpp.o CMakeFiles/misc_lib.dir/ngx_c_threadpool.cpp.o CMakeFiles/misc_lib.dir/ngx_c_crc32.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib ../../../lib/libmisc_lib.a

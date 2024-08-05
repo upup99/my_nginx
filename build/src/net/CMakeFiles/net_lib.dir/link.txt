@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc ../../../lib/libnet_lib.a CMakeFiles/net_lib.dir/ngx_c_socket.cpp.o CMakeFiles/net_lib.dir/ngx_c_socket_accept.cpp.o CMakeFiles/net_lib.dir/ngx_c_socket_conn.cpp.o CMakeFiles/net_lib.dir/ngx_c_socket_time.cpp.o CMakeFiles/net_lib.dir/ngx_c_socket_request.cpp.o CMakeFiles/net_lib.dir/ngx_c_socket_inet.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib ../../../lib/libnet_lib.a

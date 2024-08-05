@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc ../../../lib/libproc_lib.a CMakeFiles/proc_lib.dir/ngx_daemon.cpp.o CMakeFiles/proc_lib.dir/ngx_event.cpp.o CMakeFiles/proc_lib.dir/ngx_process_cycle.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib ../../../lib/libproc_lib.a
